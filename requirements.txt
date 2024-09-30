@@ -1,0 +1,9 @@
+pandas
+numpy
+geopy
+requests
+folium
+matplotlib
+seaborn
+scikit-learn
+geohash2
