@@ -1,5 +1,4 @@
 pandas
-numpy
 geopy
 requests
 folium
@@ -7,3 +6,8 @@ matplotlib
 seaborn
 scikit-learn
 geohash2
+similarity_check
+nltk
+huggingface_hub
+tqdm
+gensim
